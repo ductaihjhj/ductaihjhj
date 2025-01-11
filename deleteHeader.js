@@ -5,7 +5,12 @@
 const version = 'V1.0.2';
 
 function setHeaderValue(headers, key, value) {
-  headers[key.toLowerCase()] = value;
+    var lowerCaseKey = key.toLowerCase();
+    if (lowerCaseKey in headers) {
+        headers[lowerCaseKey] = value;
+    } else {
+        headers[key] = value;
+    }
 }
 
 var modifiedHeaders = $request.headers;
