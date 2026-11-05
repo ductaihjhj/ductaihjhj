@@ -1,184 +1,38 @@
-<!--
-  DUCTAIHJHJ | TERMINAL / HACKER PROFILE
-  Design: Hacker Workstation
-  Palette: Black / Matrix Green / Phosphor
--->
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;./assets/neural-pulse-lattice.svg&quot; alt=&quot;Phùng Đức Tài (ductaihjhj) — neural pulse lattice&quot; width=&quot;100%&quot; /&gt;
+&lt;/p&gt;
 
-<div align="center">
+### transmission
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=600&lines=%5BBOOTING+SYSTEM...%5D;%3E+INITIALIZING+DUCTAIHJHJ;%3E+ACCESS+GRANTED+%E2%9C%93;%3E+WELCOME+TO+MY+WORKSPACE_" alt="Terminal boot animation" />
+I'm **Phùng Đức Tài** ([`@ductaihjhj`](https://github.com/ductaihjhj)) — an Information Technology student at **Vinh University** (2024 – Present), **Frontend Developer**, **UI/UX Designer**, and **Content Creator** based in Vinh, Nghệ An, Vietnam. I build interactive web interfaces with **React**, **Next.js**, and **Tailwind CSS**, while producing digital media and creative content for a community of **200,000+ followers** across social platforms.
 
-```text
- ██████╗ ██╗   ██╗ ██████╗
- ██╔══██╗██║   ██║██╔════╝
- ██║  ██║██║   ██║██║     
- ██║  ██║██║   ██║██║     
- ██████╔╝╚██████╔╝╚██████╗
- ╚═════╝  ╚═════╝  ╚═════╝
+> *"Don't compare yourself with anyone in this world. If you do so, you are insulting yourself."* — **Bill Gates**
 
-     D E V E L O P E R   T E R M I N A L
-```
+### nodes (currently active)
 
-**`root@ductaihjhj:~#`**
+- `n01` · [`ductaihjhj/portfolio-engine`](https://ductaihjhj.store/) — Interactive web portfolio ([`ductaihjhj.store`](https://ductaihjhj.store/)) featuring built-in browser mini-games (*Memory Cards*, *Click Speed*, *Catch the Star*) and an embedded music player.
+- `n02` · `ductaihjhj/interface-stack` — Full-cycle web design & frontend engineering using **React**, **Next.js**, **Tailwind CSS**, **shadcn/ui**, **JavaScript**, **HTML5/CSS3**, **Node.js**, and **Python**.
+- `n03` · `ductaihjhj/creator-network` — Multi-platform digital content creation, visual design, and video editing (**CapCut**, **Canva**) reaching **200K+ followers on TikTok** and **32K+ cross-platform followers**.
+- `n04` · `vinh-uni/it-2024` — Pursuing Information Technology at **Đại học Vinh** (2024 – Present) — sharpening systems thinking, teamwork, and real-world project execution.
 
-[ PROFILE ](https://github.com/ductaihjhj) · [ REPOSITORIES ](https://github.com/ductaihjhj?tab=repositories) · [ ACTIVITY ](https://github.com/ductaihjhj?tab=overview)
+### lattice telemetry
 
-</div>
+| Subsystem | Active Modules & Tools | Status |
+| :--- | :--- | :--- |
+| **Frontend & UI** | `React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `JavaScript` · `HTML5` · `CSS3` | `ONLINE` |
+| **Runtime & Scripting** | `Node.js` · `Python` · `GitHub` | `ONLINE` |
+| **Creative & Media** | `UI/UX Design` · `Web Design` · `CapCut` · `Canva` · `Content Creation` | `ACTIVE` |
+| **Core Protocol** | `Teamwork` · `Critical Thinking` · `Communication` · `Time Management` | `NOMINAL` |
 
----
+### signal readout
 
-### `01. SYSTEM_IDENTITY`
+| Metric | Value | Notes |
+| :--- | :--- | :--- |
+| **Primary Handle** | [`@ductaihjhj`](https://github.com/ductaihjhj) | Designer · Developer · Creator |
+| **Base Station** | Vinh, Nghệ An, VN | `UTC+07:00` · Vinh University (IT) |
+| **Community Reach** | `200,000+` | TikTok (`200K+`) & Cross-Platform (`32K+`) |
+| **Shipped Builds** | `2+` | Interactive Web & GameBanana Projects |
 
-```bash
-┌──[root@ductaihjhj]──[~/profile]
-└─$ ./whoami.sh
+### endpoints
 
-[+] USER       : Phung Duc Tai
-[+] ROLE       : Developer & Tech Enthusiast
-[+] INTERESTS  : Software / Web / Robotics / Automation
-[+] LEARNING   : Full-stack Development / System Design
-[+] MINDSET    : Build. Break. Debug. Improve.
-[+] STATUS     : ONLINE
-```
-
-> I explore technology, experiment with ideas, and turn concepts into working projects. I enjoy understanding how systems work and finding creative ways to build better solutions.
-
-### `02. SYSTEM_INTERESTS`
-
-```bash
-root@ductaihjhj:~# ls ./interests
-
-drwxr-xr-x  web-development/
-drwxr-xr-x  software-engineering/
-drwxr-xr-x  robotics-automation/
-drwxr-xr-x  artificial-intelligence/
-drwxr-xr-x  system-analysis/
-```
-
-| Module | Description |
-|:---|:---|
-| `01` Web Development | Building modern web experiences |
-| `02` Software Engineering | Designing and developing applications |
-| `03` Robotics | Programming and automation |
-| `04` AI & Technology | Exploring emerging technologies |
-
-### `03. TECH_ENVIRONMENT`
-
-```bash
-root@ductaihjhj:~# neofetch --tech
-```
-
-<div align="center">
-
-**[ PROGRAMMING LANGUAGES ]**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp&theme=dark" />
-
-**[ DEVELOPMENT TOOLS ]**
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,mysql,arduino&theme=dark" />
-
-</div>
-
-### `04. PROJECT_DATABASE`
-
-```bash
-root@ductaihjhj:~# ls -la ./repositories
-
-[01] pdtspotify
-[02] autojoin
-[03] shadowrocket-module
-[04] hocfigma
-
-root@ductaihjhj:~# echo "Loading project directory..."
-```
-
-<div align="center">
-
-<a href="https://github.com/ductaihjhj/pdtspotify">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=pdtspotify&theme=chartreuse-dark&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/ductaihjhj/autojoin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=autojoin&theme=chartreuse-dark&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/ductaihjhj/shadowrocket-module">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=shadowrocket-module&theme=chartreuse-dark&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/ductaihjhj/hocfigma">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=hocfigma&theme=chartreuse-dark&hide_border=true" width="48%" />
-</a>
-
-</div>
-
-### `05. GITHUB_MONITOR`
-
-```bash
-root@ductaihjhj:~# github --monitor
-[+] Fetching contribution statistics...
-[+] Loading programming activity...
-[+] Rendering dashboard...
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ductaihjhj&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductaihjhj&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ductaihjhj&theme=chartreuse-dark&hide_border=true&background=0D1117" width="75%" />
-
-</div>
-
-### `06. CONTRIBUTION_ACTIVITY`
-
-```bash
-root@ductaihjhj:~# ./contribution-map.sh
-[+] Visualizing contribution history...
-[+] Rendering matrix...
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
-</picture>
-
-</div>
-
-### `07. CONNECTION`
-
-```bash
-root@ductaihjhj:~# connect --github
-[+] GitHub account found.
-[+] Connection established.
-```
-
-<div align="center">
-
-<a href="https://github.com/ductaihjhj">
-<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
-</a>
-
-<br/><br/>
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│  ACCESS GRANTED.                           │
-│  THANK YOU FOR VISITING MY WORKSPACE.      │
-│                                            │
-│  KEEP LEARNING. KEEP BUILDING.             │
-│                                            │
-│  root@ductaihjhj:~# logout                 │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:003B00,50:00FF41,100:003B00" width="100%" />
-
-<sub>Designed & coded by <a href="https://github.com/ductaihjhj">ductaihjhj</a> · SYSTEM ONLINE</sub>
-
-</div>
+[`ductaihjhj.store`](https://ductaihjhj.store/) · [`@ductaihjhj`](https://github.com/ductaihjhj) · [`ductai206.user@gmail.com`](mailto:ductai206.user@gmail.com)
