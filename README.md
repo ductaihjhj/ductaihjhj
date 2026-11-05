@@ -1,114 +1,184 @@
+<!--
+  DUCTAIHJHJ | TERMINAL / HACKER PROFILE
+  Design: Hacker Workstation
+  Palette: Black / Matrix Green / Phosphor
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:050816,45:0B1B36,100:063B5C&text=PHUNG%20DUC%20TAI&fontSize=48&fontColor=E6F7FF&fontAlignY=42&animation=fadeIn&desc=DEVELOPER%20%2F%2F%20TECH%20EXPLORER&descSize=15&descAlignY=68&descColor=67E8F9" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=600&lines=%5BBOOTING+SYSTEM...%5D;%3E+INITIALIZING+DUCTAIHJHJ;%3E+ACCESS+GRANTED+%E2%9C%93;%3E+WELCOME+TO+MY+WORKSPACE_" alt="Terminal boot animation" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Turning+ideas+into+working+projects.;Exploring+code%2C+robotics+%26+automation.;Learning+something+new+every+day." alt="Typing SVG" />
-</a>
+```text
+ ██████╗ ██╗   ██╗ ██████╗
+ ██╔══██╗██║   ██║██╔════╝
+ ██║  ██║██║   ██║██║     
+ ██║  ██║██║   ██║██║     
+ ██████╔╝╚██████╔╝╚██████╗
+ ╚═════╝  ╚═════╝  ╚═════╝
 
-<br/>
+     D E V E L O P E R   T E R M I N A L
+```
 
-<a href="https://github.com/ductaihjhj">
-  <img src="https://komarev.com/ghpvc/?username=ductaihjhj&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-&nbsp;
-<a href="https://github.com/ductaihjhj?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-0e7490?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-</a>
+**`root@ductaihjhj:~#`**
+
+[ PROFILE ](https://github.com/ductaihjhj) · [ REPOSITORIES ](https://github.com/ductaihjhj?tab=repositories) · [ ACTIVITY ](https://github.com/ductaihjhj?tab=overview)
 
 </div>
 
 ---
 
-```console
-┌──(ductaihjhj㉿github)-[~]
-└─$ cat about-me.txt
+### `01. SYSTEM_IDENTITY`
 
-  NAME      : Phung Duc Tai
-  ROLE      : Developer / Technology Enthusiast
-  FOCUS     : Web Development, Software, Robotics
-  MINDSET   : Learn → Build → Improve → Repeat
-  STATUS    : Always exploring what's next.
+```bash
+┌──[root@ductaihjhj]──[~/profile]
+└─$ ./whoami.sh
+
+[+] USER       : Phung Duc Tai
+[+] ROLE       : Developer & Tech Enthusiast
+[+] INTERESTS  : Software / Web / Robotics / Automation
+[+] LEARNING   : Full-stack Development / System Design
+[+] MINDSET    : Build. Break. Debug. Improve.
+[+] STATUS     : ONLINE
 ```
 
-## `01 / ABOUT`
+> I explore technology, experiment with ideas, and turn concepts into working projects. I enjoy understanding how systems work and finding creative ways to build better solutions.
 
-I enjoy exploring how technology works and turning ideas into practical projects. My interests sit at the intersection of **software development, web technologies, robotics, and automation**.
+### `02. SYSTEM_INTERESTS`
 
-- 🌱 Currently learning and improving my software development skills.
-- 🧩 Interested in building useful tools and experimenting with new ideas.
-- 🤖 Curious about robotics, embedded systems, and automation.
-- 🤝 Open to learning from other developers and collaborating on interesting projects.
+```bash
+root@ductaihjhj:~# ls ./interests
 
-## `02 / TECH I EXPLORE`
+drwxr-xr-x  web-development/
+drwxr-xr-x  software-engineering/
+drwxr-xr-x  robotics-automation/
+drwxr-xr-x  artificial-intelligence/
+drwxr-xr-x  system-analysis/
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,mysql,git,github,vscode,visualstudio,arduino&theme=dark&perline=6" alt="Technology icons" />
-</p>
+| Module | Description |
+|:---|:---|
+| `01` Web Development | Building modern web experiences |
+| `02` Software Engineering | Designing and developing applications |
+| `03` Robotics | Programming and automation |
+| `04` AI & Technology | Exploring emerging technologies |
 
-<p align="center">
-  <sub>Technologies and tools I work with or am currently exploring.</sub>
-</p>
+### `03. TECH_ENVIRONMENT`
 
-## `03 / SELECTED REPOSITORIES`
-
-<p align="center">
-  <a href="https://github.com/ductaihjhj/pdtspotify">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=pdtspotify&theme=transparent&hide_border=true&title_color=67E8F9&text_color=C9D1D9&icon_color=67E8F9" alt="pdtspotify repository card" />
-  </a>
-  <a href="https://github.com/ductaihjhj/autojoin">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=autojoin&theme=transparent&hide_border=true&title_color=67E8F9&text_color=C9D1D9&icon_color=67E8F9" alt="autojoin repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ductaihjhj/shadowrocket-module">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=shadowrocket-module&theme=transparent&hide_border=true&title_color=67E8F9&text_color=C9D1D9&icon_color=67E8F9" alt="shadowrocket-module repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ductaihjhj?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0B2538?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=050816" alt="View all repositories" />
-  </a>
-</p>
-
-## `04 / GITHUB SIGNALS`
+```bash
+root@ductaihjhj:~# neofetch --tech
+```
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ductaihjhj&show_icons=true&hide_border=true&bg_color=00000000&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductaihjhj&layout=compact&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=C9D1D9" alt="Top languages" />
+
+**[ PROGRAMMING LANGUAGES ]**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp&theme=dark" />
+
+**[ DEVELOPMENT TOOLS ]**
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,mysql,arduino&theme=dark" />
+
 </div>
 
+### `04. PROJECT_DATABASE`
+
+```bash
+root@ductaihjhj:~# ls -la ./repositories
+
+[01] pdtspotify
+[02] autojoin
+[03] shadowrocket-module
+[04] hocfigma
+
+root@ductaihjhj:~# echo "Loading project directory..."
+```
+
 <div align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=ductaihjhj&hide_border=true&background=00000000&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF" alt="GitHub streak" />
+
+<a href="https://github.com/ductaihjhj/pdtspotify">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=pdtspotify&theme=chartreuse-dark&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/ductaihjhj/autojoin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=autojoin&theme=chartreuse-dark&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/ductaihjhj/shadowrocket-module">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=shadowrocket-module&theme=chartreuse-dark&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/ductaihjhj/hocfigma">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ductaihjhj&repo=hocfigma&theme=chartreuse-dark&hide_border=true" width="48%" />
+</a>
+
 </div>
 
-## `05 / CONTRIBUTION MAP`
+### `05. GITHUB_MONITOR`
+
+```bash
+root@ductaihjhj:~# github --monitor
+[+] Fetching contribution statistics...
+[+] Loading programming activity...
+[+] Rendering dashboard...
+```
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-  </picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ductaihjhj&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductaihjhj&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" width="49%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ductaihjhj&theme=chartreuse-dark&hide_border=true&background=0D1117" width="75%" />
+
 </div>
 
-## `06 / FIND ME`
+### `06. CONTRIBUTION_ACTIVITY`
+
+```bash
+root@ductaihjhj:~# ./contribution-map.sh
+[+] Visualizing contribution history...
+[+] Rendering matrix...
+```
 
 <div align="center">
-  <a href="https://github.com/ductaihjhj">
-    <img src="https://img.shields.io/badge/GitHub-ductaihjhj-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ductaihjhj/ductaihjhj/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
+</picture>
+
 </div>
 
+### `07. CONNECTION`
+
+```bash
+root@ductaihjhj:~# connect --github
+[+] GitHub account found.
+[+] Connection established.
+```
+
 <div align="center">
 
-### Thanks for stopping by.
+<a href="https://github.com/ductaihjhj">
+<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+</a>
 
-<sub>Curiosity drives me. Code moves me. Building keeps me going.</sub>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:063B5C,55:0B1B36,100:050816" alt="Footer wave" />
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│  ACCESS GRANTED.                           │
+│  THANK YOU FOR VISITING MY WORKSPACE.      │
+│                                            │
+│  KEEP LEARNING. KEEP BUILDING.             │
+│                                            │
+│  root@ductaihjhj:~# logout                 │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:003B00,50:00FF41,100:003B00" width="100%" />
+
+<sub>Designed & coded by <a href="https://github.com/ductaihjhj">ductaihjhj</a> · SYSTEM ONLINE</sub>
 
 </div>
