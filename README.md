@@ -1,9 +1,8 @@
+
 <div align="center">
 
-<!-- HERO: animated gradient banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:050816,45:0B1B36,100:063B5C&text=PHUNG%20DUC%20TAI&fontSize=48&fontColor=E6F7FF&fontAlignY=42&animation=fadeIn&desc=DEVELOPER%20%2F%2F%20TECH%20EXPLORER&descSize=15&descAlignY=68&descColor=67E8F9" />
 
-<!-- TYPEWRITER -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Turning+ideas+into+working+projects.;Exploring+code%2C+robotics+%26+automation.;Learning+something+new+every+day." alt="Typing SVG" />
 </a>
