@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/aurora-hero.gif" width="100%" alt="Duc Tai — animated aurora glass and 3D orbit hero" />
+  <img src="./aurora-hero.gif" width="100%" alt="Duc Tai — animated aurora glass and 3D orbit hero" />
 
   <br />
   <br />
@@ -21,7 +21,7 @@
 
 <br />
 
-<img src="./assets/glass-panels.svg" width="100%" alt="Glassmorphism cards for interfaces, systems and experiments" />
+<img src="./glass-panels.svg" width="100%" alt="Glassmorphism cards for interfaces, systems and experiments" />
 
 <br />
 
@@ -58,7 +58,7 @@ I'm interested in the space where **thoughtful design meets useful technology**.
 ### `// 04 — THE NEXT CHAPTER`
 
 <div align="center">
-  <img src="./assets/glass-footer.svg" width="100%" alt="The best ideas are still ahead — glass gradient footer" />
+  <img src="./glass-footer.svg" width="100%" alt="The best ideas are still ahead — glass gradient footer" />
 
   <br />
   <br />
