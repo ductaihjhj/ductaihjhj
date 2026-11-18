@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-label="Three translucent gradient glass cards highlighting Interfaces, Systems and Experiments">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d20"/><stop offset="0.48" stop-color="#11132d"/><stop offset="1" stop-color="#081927"/></linearGradient>
+  <radialGradient id="bl1"><stop stop-color="#8155ff" stop-opacity=".65"/><stop offset="1" stop-color="#8155ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="bl2"><stop stop-color="#0cf0ed" stop-opacity=".34"/><stop offset="1" stop-color="#0cf0ed" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6a3ff" stop-opacity=".8"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".08"/><stop offset="1" stop-color="#6f58db" stop-opacity=".40"/></linearGradient>
+  <linearGradient id="edge2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#91effc" stop-opacity=".78"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#0fbcc7" stop-opacity=".36"/></linearGradient>
+  <linearGradient id="edge3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d1b2ff" stop-opacity=".75"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#e064d2" stop-opacity=".38"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d4f9ff"/><stop offset=".3" stop-color="#a8acfc"/><stop offset=".68" stop-color="#805ce7"/><stop offset="1" stop-color="#39cbd9"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b5fff5"/><stop offset=".52" stop-color="#5ccded"/><stop offset="1" stop-color="#605dca"/></linearGradient>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".26" stop-color="#d1a5ff"/><stop offset=".67" stop-color="#a46df7"/><stop offset="1" stop-color="#4a67ba"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="38"/></filter>
+  <filter id="shadow" x="-25%" y="-30%" width="150%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#02030c" flood-opacity=".65"/></filter>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+ </defs>
+ <rect x="1" y="1" width="1198" height="333" rx="26" fill="url(#bg)" stroke="#576a9b" stroke-opacity=".4"/>
+ <circle cx="235" cy="100" r="190" fill="url(#bl1)"/>
+ <circle cx="1025" cy="340" r="220" fill="url(#bl2)"/>
+ <text x="37" y="37" fill="#b6a8ed" font-family="Inter,Segoe UI,sans-serif" font-size="12" letter-spacing="3" font-weight="700">THE CREATIVE PROCESS</text>
+ <text x="1161" y="37" text-anchor="end" fill="#63849e" font-family="Inter,Segoe UI,sans-serif" font-size="11" letter-spacing="2">THINK  /  SHAPE  /  SHIP</text>
+ 
+ <!-- CARDS -->
+ <g filter="url(#shadow)">
+  <rect x="35" y="67" width="352" height="236" rx="22" fill="#d4cbff" fill-opacity=".075" stroke="url(#edge1)" stroke-width="1.4"/>
+  <rect x="424" y="67" width="352" height="236" rx="22" fill="#ccf9ff" fill-opacity=".06" stroke="url(#edge2)" stroke-width="1.4"/>
+  <rect x="813" y="67" width="352" height="236" rx="22" fill="#f7c9ff" fill-opacity=".06" stroke="url(#edge3)" stroke-width="1.4"/>
+ </g>
+ <path d="M57 69 H206" stroke="#ded8ff" stroke-opacity=".6" stroke-width="2"/>
+ <path d="M445 69 H595" stroke="#bcfaff" stroke-opacity=".6" stroke-width="2"/>
+ <path d="M835 69 H982" stroke="#f4caff" stroke-opacity=".6" stroke-width="2"/>
+ <!-- Card1 icon / abstract layered windows -->
+ <g transform="translate(58 94)">
+  <rect x="0" y="0" width="50" height="50" rx="14" fill="#8a6bff" fill-opacity=".15" stroke="#a997fa" stroke-opacity=".3"/>
+  <path d="M10 24 L24 15 L41 24 L27 33 Z" fill="url(#metal)" fill-opacity=".85"/>
+  <path d="M10 24 V32 L27 41 V33 Z" fill="#7561c8"/>
+  <path d="M27 33 L41 24 V31 L27 41 Z" fill="#4cb7d2"/>
+  <path d="M11 18 L24 10 L40 18" stroke="#d7d3ff" stroke-opacity=".65" fill="none"/>
+ </g>
+ <text x="126" y="111" fill="#a89ae1" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / DESIGN</text>
+ <text x="58" y="207" fill="#f3f0ff" font-family="Inter,Segoe UI,sans-serif" font-size="30" font-weight="750">Interfaces</text>
+ <text x="58" y="244" fill="#a6afc9" font-family="Inter,Segoe UI,sans-serif" font-size="16">Visual clarity meets delightful</text>
+ <text x="58" y="265" fill="#a6afc9" font-family="Inter,Segoe UI,sans-serif" font-size="16">micro-interactions.</text>
+ <circle cx="351" cy="100" r="4" fill="#ad97ff"/>
+ <!-- Card2 icon / system nodes -->
+ <g transform="translate(447 94)">
+  <rect x="0" y="0" width="50" height="50" rx="14" fill="#52dce7" fill-opacity=".13" stroke="#77ebf0" stroke-opacity=".3"/>
+  <path d="M15 14 L34 25 L15 36 M15 14 L15 36" stroke="url(#cyan)" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="15" cy="14" r="4.6" fill="#9afff4"/><circle cx="34" cy="25" r="4.6" fill="#7cdbf4"/><circle cx="15" cy="36" r="4.6" fill="#7db6eb"/>
+ </g>
+ <text x="515" y="111" fill="#87dbe7" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / ENGINEER</text>
+ <text x="447" y="207" fill="#effaff" font-family="Inter,Segoe UI,sans-serif" font-size="30" font-weight="750">Systems</text>
+ <text x="447" y="244" fill="#a6bfcd" font-family="Inter,Segoe UI,sans-serif" font-size="16">Thoughtful structure behind</text>
+ <text x="447" y="265" fill="#a6bfcd" font-family="Inter,Segoe UI,sans-serif" font-size="16">every smooth experience.</text>
+ <circle cx="742" cy="100" r="4" fill="#6aede5"/>
+ <!-- Card3 icon / prism crystal -->
+ <g transform="translate(837 94)">
+  <rect x="0" y="0" width="50" height="50" rx="14" fill="#bd79ec" fill-opacity=".13" stroke="#ddaeff" stroke-opacity=".3"/>
+  <path d="M25 6 L40 25 L25 44 L10 25 Z" fill="url(#purple)" fill-opacity=".78"/>
+  <path d="M25 6 L25 44 L10 25 Z" fill="#8b78ef" fill-opacity=".6"/>
+  <path d="M25 6 L25 44 L40 25 Z" fill="#d2a1ff" fill-opacity=".4"/>
+  <path d="M10 25 H40" stroke="#f2d5ff" stroke-opacity=".6"/>
+ </g>
+ <text x="905" y="111" fill="#d8afe9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / EXPLORE</text>
+ <text x="837" y="207" fill="#fbf3ff" font-family="Inter,Segoe UI,sans-serif" font-size="30" font-weight="750">Experiments</text>
+ <text x="837" y="244" fill="#bfaccd" font-family="Inter,Segoe UI,sans-serif" font-size="16">Curiosity, iteration, and</text>
+ <text x="837" y="265" fill="#bfaccd" font-family="Inter,Segoe UI,sans-serif" font-size="16">ideas worth trying.</text>
+ <circle cx="1129" cy="100" r="4" fill="#e8b3f7"/>
+</svg>

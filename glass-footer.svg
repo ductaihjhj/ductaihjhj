@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Gradient glass footer: The best ideas are still ahead">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11102d"/><stop offset=".55" stop-color="#11172f"/><stop offset="1" stop-color="#052c39"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#66dcff"/><stop offset="1" stop-color="#7ff5d2"/></linearGradient>
+ <radialGradient id="shine"><stop stop-color="#9668ff" stop-opacity=".3"/><stop offset="1" stop-color="#9668ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan"><stop stop-color="#39e3db" stop-opacity=".33"/><stop offset="1" stop-color="#39e3db" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="2" y="2" width="1196" height="196" rx="26" fill="url(#bg)" stroke="#7f8ebe" stroke-opacity=".5"/>
+<circle cx="50" cy="30" r="195" fill="url(#shine)"/><circle cx="1150" cy="160" r="190" fill="url(#cyan)"/>
+<rect x="38" y="39" width="6" height="122" rx="3" fill="url(#stroke)"/>
+<text x="76" y="79" fill="#d0c8ff" font-family="Inter,Segoe UI,sans-serif" font-size="13" font-weight="700" letter-spacing="3">KEEP EXPLORING</text>
+<text x="73" y="123" fill="#f2f6ff" font-family="Inter,Segoe UI,sans-serif" font-size="38" font-weight="750">The best ideas are still ahead.</text>
+<text x="76" y="156" fill="#a0b6d5" font-family="Inter,Segoe UI,sans-serif" font-size="17">Stay curious. Build thoughtfully. Keep improving.</text>
+<circle cx="1070" cy="100" r="48" fill="#89a6ff" fill-opacity=".08" stroke="#a3d6ff" stroke-opacity=".25" stroke-width="2"/>
+<circle cx="1070" cy="100" r="33" fill="none" stroke="url(#stroke)" stroke-width="4"/>
+<path d="M1057 99 L1067 109 L1085 88" stroke="#e3ffff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
