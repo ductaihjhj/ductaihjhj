@@ -1,155 +1,179 @@
 
-
 <div align="center">
 
-  <img
-    width="100%"
-    alt="Duc Tai — Developer profile banner"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0B1120,45:115E59,75:0F766E,100:34D399&amp;text=DUC%20TAI&amp;fontColor=F8FAFC&amp;fontSize=72&amp;fontAlignY=38&amp;desc=DESIGN%20%20%C3%97%20%20CODE%20%20%C3%97%20%20CREATE&amp;descAlignY=61&amp;descSize=17&amp;animation=fadeIn"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:08111F,30:0F3D3A,65:0F766E,100:6EE7B7&text=DUC%20TAI&fontColor=F8FAFC&fontSize=76&fontAlignY=37&desc=DESIGN%20%E2%80%A2%20CODE%20%E2%80%A2%20CREATE&descAlignY=59&descSize=18&animation=fadeIn" />
 
-  <a href="https://github.com/ductai">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=950&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;height=55&amp;lines=Hi%2C+I%27m+%40ductai+%F0%9F%91%8B;Crafting+thoughtful+digital+experiences;Clean+interfaces.+Real-world+solutions.;Always+learning%2C+always+building."
-      alt="Animated introduction" />
-  </a>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" alt="Waving hand" />
 
-  <p>
-    <strong>Developer mindset · Design enthusiast · Lifelong learner</strong>
-  </p>
+### Hey, I'm @ductai!
 
-  <p>
-    I enjoy bringing <b>ideas, design, and technology</b> together to make digital products<br/>
-    that are thoughtful, useful, and a pleasure to interact with.
-  </p>
+<a href="https://github.com/ductai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=6EE7B7&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Building+digital+experiences+%E2%9C%A8;Designing+with+purpose+%F0%9F%8E%A8;Turning+ideas+into+working+products+%F0%9F%9A%80;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%8C%B1" />
+</a>
 
-  <a href="https://github.com/ductai?tab=repositories">
-    <img alt="Explore repositories" src="https://img.shields.io/badge/EXPLORE_MY_WORK-10B981?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=064E3B" />
-  </a>
-  <a href="https://github.com/ductai?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ductai?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;label=FOLLOWERS&amp;color=0D9488&amp;labelColor=0F172A" />
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ductai&amp;style=for-the-badge&amp;color=10B981&amp;label=PROFILE+VIEWS" />
+**Web Development · UI/UX · Systems Thinking · Creative Technology**
+
+<br/>
+
+<a href="https://github.com/ductai?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0F766E?style=for-the-badge&logo=github&logoColor=white&labelColor=064E3B" />
+</a>
+<a href="https://github.com/ductai?tab=followers">
+  <img src="https://img.shields.io/github/followers/ductai?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=14B8A6&labelColor=0F172A" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ductai&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:08111F,50:10B981,100:08111F" />
 
 ## `01` · About me
 
 <table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👋 A little introduction</h3>
-      <p>
-        I'm <b>Duc Tai</b> (<code>@ductai</code>), interested in building modern web experiences and exploring how software can solve practical problems.
-      </p>
-      <p>
-        I care about the details: clear user journeys, intuitive interactions, maintainable code, and systems that work beyond the demo.
-      </p>
-      <p>
-        <b>Current interests:</b> web development, UI/UX, system design, and AI-assisted workflows.
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>⚡ Quick facts</h3>
-      <p>🎨 &nbsp;I appreciate polished, purposeful interfaces.</p>
-      <p>🧩 &nbsp;I like understanding the logic behind a product.</p>
-      <p>🛠️ &nbsp;I learn best by building and improving things.</p>
-      <p>🌱 &nbsp;I'm continuously experimenting and learning.</p>
-      <p>💬 &nbsp;Open to exchanging ideas with other builders.</p>
-    </td>
-  </tr>
+<tr>
+<td width="57%" valign="top">
+
+### 👨‍💻 A little about me
+
+Hi! I'm **Duc Tai** (`@ductai`).
+
+I enjoy combining **design, technology, and thoughtful interactions** to create products people actually want to use.
+
+I care about clean interfaces, practical problem-solving, maintainable code, and improving the little details that make a big difference.
+
+🌱 **Exploring:** Web experiences, UI/UX, software systems, and AI-assisted development.
+
+⚡ **Approach:** Imagine it → Prototype it → Build it → Refine it.
+
+</td>
+<td width="43%" valign="middle" align="center">
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</td>
+</tr>
 </table>
 
-## `02` · What I'm interested in building
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1300&color=5EEAD4&center=true&vCenter=true&repeat=true&width=680&height=40&lines=%3E+Think+clearly.+Build+carefully.;%3E+Good+design+is+in+the+details.;%3E+Stay+curious.+Keep+shipping." />
+
+</div>
+
+## `02` · Things I love creating
 
 <table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🖥️ Web Experiences</h3>
-      <p>Responsive, accessible, and easy-to-use websites and applications.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>✨ UI / UX</h3>
-      <p>Clean visual systems, enjoyable interactions, and consistent design.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⚙️ Real-world Systems</h3>
-      <p>Useful workflows, dashboards, booking flows, and thoughtful automation.</p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🌐 Web Experiences
+
+Responsive, accessible and smooth web apps built around real user needs.
+
+</td>
+<td width="34%" align="center" valign="top">
+
+### 🎨 UI / UX Design
+
+Modern layouts, intuitive user journeys and delightful micro-interactions.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚙️ Smart Systems
+
+Dashboards, automation and product workflows with well-considered logic.
+
+</td>
+</tr>
 </table>
 
-## `03` · My creative toolbox
+## `03` · Creative toolbox
 
 <div align="center">
 
-  <!-- Update these icons to reflect the tools and technologies you actually use. -->
-  <p><strong>Web & programming</strong></p>
-  <img alt="HTML, CSS, JavaScript, TypeScript, React, Node.js"
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&amp;theme=dark" />
+**Languages & Web**
 
-  <p><strong>Design & workflow</strong></p>
-  <img alt="Figma, Git, GitHub, VS Code"
-    src="https://skillicons.dev/icons?i=figma,git,github,vscode&amp;theme=dark" />
+<!-- Customize to reflect your actual skills -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=dark&perline=6" />
 
-  <p><sub>Curious about good software from first sketch to final experience.</sub></p>
+<br/><br/>
+
+**Design & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark&perline=4" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2100&pause=750&color=34D399&center=true&vCenter=true&repeat=true&width=750&height=45&lines=git+commit+-m+%22make+it+better%22;npm+run+build+%E2%9C%85;git+push+origin+main+%F0%9F%9A%80" />
 
 </div>
 
-## `04` · GitHub in motion
+## `04` · GitHub analytics
 
 <div align="center">
-  <img
-    width="49%"
-    alt="Duc Tai's GitHub statistics"
-    src="https://github-readme-stats.vercel.app/api?username=ductai&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=5EEAD4&amp;text_color=CBD5E1&amp;icon_color=34D399&amp;ring_color=34D399&amp;include_all_commits=true"
-  />
-  <img
-    width="44%"
-    alt="Most used languages in public GitHub repositories"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductai&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=5EEAD4&amp;text_color=CBD5E1"
-  />
-  <br/>
-  <img
-    width="94%"
-    alt="GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ductai&amp;bg_color=0b1120&amp;color=cbd5e1&amp;line=34d399&amp;point=5eead4&amp;area=true&amp;area_color=064e3b&amp;hide_border=true&amp;custom_title=Contribution%20Journey"
-  />
-  <br/>
-  <sub>Live cards generated from public GitHub activity. External image services may occasionally be unavailable.</sub>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ductai&show_icons=true&hide_border=true&bg_color=0B1120&title_color=5EEAD4&text_color=CBD5E1&icon_color=34D399&ring_color=34D399&include_all_commits=true" />
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductai&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=5EEAD4&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="76%" src="https://streak-stats.demolab.com?user=ductai&hide_border=true&background=0B1120&ring=34D399&fire=6EE7B7&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=5EEAD4&sideLabels=5EEAD4&dates=94A3B8" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ductai&bg_color=0b1120&color=cbd5e1&line=34d399&point=5eead4&area=true&area_color=064e3b&hide_border=true&custom_title=Contribution%20Journey" />
+
 </div>
 
-## `05` · Explore the work
-
-Instead of showing made-up featured repositories, this section links directly to the real projects published on my profile. Explore, inspect the code, or follow along as things evolve.
+## `05` · Contribution snake 🐍
 
 <div align="center">
-  <a href="https://github.com/ductai?tab=repositories">
-    <img alt="Browse public repositories" src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-34D399?style=for-the-badge&amp;logo=github&amp;logoColor=052E2B&amp;labelColor=CCFBF1" />
-  </a>
-  <a href="https://github.com/ductai?tab=stars">
-    <img alt="Browse starred projects" src="https://img.shields.io/badge/EXPLORE_MY_STARS-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=115E59" />
-  </a>
+
+<!-- Requires the snake.yml workflow to run first -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ductai/ductai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ductai/ductai/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/ductai/ductai/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## `06` · Discover my work
+
+<div align="center">
+
+Explore my public code and follow projects as they grow.
+
+<br/><br/>
+
+<a href="https://github.com/ductai?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-10B981?style=for-the-badge&logo=github&logoColor=052E2B&labelColor=CCFBF1" />
+</a>
+<a href="https://github.com/ductai?tab=stars">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_STARS-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=115E59" />
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-  ### Let's make something meaningful.
-  <p><i>Great software is built one thoughtful improvement at a time.</i></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1500&color=6EE7B7&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+meaningful.;See+you+in+the+next+commit+%F0%9F%91%8B" />
 
-  <a href="https://github.com/ductai">
-    <img alt="Find me on GitHub" src="https://img.shields.io/badge/LET'S_CONNECT_ON_GITHUB-064E3B?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" />
-  </a>
-  
-  <img
-    width="100%"
-    alt="Decorative gradient footer"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=135&amp;color=0:0B1120,45:115E59,75:0F766E,100:34D399"
-  />
+<br/>
 
-  <sub>Made with curiosity, care, and a little caffeine ☕ · <a href="https://github.com/ductai">@ductai</a></sub>
+<a href="https://github.com/ductai">
+  <img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-064E3B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:08111F,30:0F3D3A,65:0F766E,100:6EE7B7&animation=fadeIn" />
+
+<sub>Designed with curiosity ☕ · <a href="https://github.com/ductai">@ductai</a></sub>
 
 </div>
